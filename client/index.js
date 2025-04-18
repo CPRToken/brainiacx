@@ -19,6 +19,16 @@
 
 
     const hardcodedTweets = [
+
+
+        { text: "Introducing our new Live Speech Translator — speak in English or Spanish, and hear it translated out loud into 10+ languages like Thai, Japanese, French, and more.\n" +
+                "🎧 Try it now → [brainiacmedia.ai]\n" +
+                "#AI #Translation #SpeechToSpeech\n" +
+                "\n", video: "engfinal.mp4" },
+        { text: "Presentamos nuestro nuevo Traductor de Voz en Vivo: habla en inglés o español y escucha la traducción en voz alta en más de 10 idiomas como tailandés, japonés, francés y más.\n" +
+                "🎧 Pruébalo ahora → [brainiacmedia.ai]\n" +
+                "#IA #Traducción #VozAVoz\n" +
+                "\n", video: "espfinal.mp4" },
         { text: "BrainiacMedia.ai helps you create unique content in seconds using AI. How do you think this could change your daily productivity? #AIContent #Productivity", video: "content.mp4" },
         { text: "BrainiacMedia.ai te ayuda a crear contenido único en segundos usando IA. ¿Cómo crees que esto podría cambiar tu productividad diaria? #ContenidoAI #Productividad", video: "contenido.mp4" },
         { text: "BrainiacMedia.ai generates original AI images instantly. Do you think this is better than using stock photo sites? #AIGeneratedImages #MarketingTools", video: "images.mp4" },
